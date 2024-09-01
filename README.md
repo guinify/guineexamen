@@ -1,6 +1,6 @@
-# GuineeExamen
+# GuinéExamen
 
-GuineeExamen révolutionne l'accès aux résultats des examens nationaux (BAC, BEPC, CEE) en Guinée.
+GuinéExamen révolutionne l'accès aux résultats des examens nationaux (BAC, BEPC, CEE) en Guinée.
 
 ## Fonctionnalités principales
 
